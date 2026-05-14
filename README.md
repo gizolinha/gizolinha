@@ -35,9 +35,9 @@
 ## 🗡️ Featured Projects
 
 <div align="center">
-  <a href="https://github.com/gizolinha/garfield_game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gizolinha&repo=garfield_game&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c" alt="Garfield game" />
-  </a>
+
+[![Garfield game](https://github-readme-stats.vercel.app/api/pin/?username=gizolinha&repo=garfield_game&theme=dark&v=1)](https://github.com/gizolinha/garfield_game)
+
 </div>
 
 ---
