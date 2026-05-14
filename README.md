@@ -20,9 +20,4 @@
 ![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c)
 
 </div>
-
-<img align="right" width="240px" src="https://raw.githubusercontent.com/gizolinha/gizolinha/main/malenia.jfif" alt="character"/>
-
-<br clear="right"/>
-
 ---
