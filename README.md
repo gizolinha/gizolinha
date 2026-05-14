@@ -24,15 +24,21 @@
 
 ---
 
-## 📜 Contribution Graph
+## Statistics
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gizolinha&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/gizolinha)
+<img src="https://streak-stats.demolab.com?user=gizolinha&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
+
+<br/><br/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gizolinha&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gizolinha&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
 
 </div>
 
 ---
+
 ## 🗡️ Featured Projects
 
 <div align="center">
