@@ -26,6 +26,10 @@
 
 ## Statistics
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=gizolinha&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
+
 <br/><br/>
 
 <div align="center">
