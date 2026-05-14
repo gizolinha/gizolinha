@@ -20,7 +20,9 @@
 ![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c)
 
 </div>
+
 ---
+
 ## 📜 Contribution Graph
 
 <div align="center">
@@ -30,4 +32,19 @@
 </div>
 
 ---
+## 🗡️ Featured Projects
+
+<div align="center">
+
+[![garfield](https://github-readme-stats.vercel.app/api/pin/?username=gizolinha&repo=SEU_REPO&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/gizolinha/garfield_game)
+
+</div>
+
+---
+
+<div align="center">
+
+*† There can be no justice. Only revenge †*
+
+</div>
 
