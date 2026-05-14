@@ -36,7 +36,7 @@
 
 <div align="center">
 
-[![Garfield game](https://github-readme-stats.vercel.app/api/pin/?username=gizolinha&repo=garfield_game&theme=dark&v=1)](https://github.com/gizolinha/garfield_game)
+[![Garfield game](https://github-readme-stats.vercel.app/api/pin/?username=gizolinha&repo=garfield_game&theme=dark)](https://github.com/gizolinha/garfield_game)
 
 </div>
 
