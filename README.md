@@ -32,9 +32,9 @@
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gizolinha&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gizolinha&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
-
+<div align="center">
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gizolinha&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gizolinha&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
 </div>
 
 ---
