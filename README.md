@@ -36,7 +36,7 @@
 
 <div align="center">
 
-[![garfield](https://github-readme-stats.vercel.app/api/pin/?username=gizolinha&repo=SEU_REPO&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/gizolinha/garfield_game)
+[![Garfield game](https://github-readme-stats.vercel.app/api/pin/?username=gizolinha&repo=SEU_REPO&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/gizolinha/garfield_game)
 
 </div>
 
