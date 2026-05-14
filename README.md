@@ -13,12 +13,12 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=c9a84c)
-![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=c9a84c)
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=c9a84c)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=c9a84c)
-![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c)
-![C](https://img.shields.io/badge/C-111?style=for-the-badge&logo=c&logoColor=c9a84c)
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=660000)
+![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=660000)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=660000)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=660000)
+![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=660000)
+![C](https://img.shields.io/badge/C-111?style=for-the-badge&logo=c&logoColor=660000)
 
 </div>
 
@@ -28,13 +28,13 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=gizolinha&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=gizolinha&theme=dark&ring=660000&fire=660000&currStreakLabel=660000&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=660000" alt="streak"/>
 
 <br/><br/>
 
 <div align="center">
-  <img height="135em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gizolinha&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
-  <img height="135em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gizolinha&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
+  <img height="135em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gizolinha&show_icons=true&theme=dark&title_color=660000&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
+  <img height="135em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gizolinha&layout=compact&theme=dark&title_color=660000&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
 </div>
 
 ---
@@ -43,7 +43,7 @@
 
 <div align="center">
 
-[![Garfield game](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gizolinha&repo=garfield_game&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/gizolinha/garfield_game)
+[![Garfield game](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gizolinha&repo=garfield_game&theme=dark&title_color=660000&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=660000)](https://github.com/gizolinha/garfield_game)
 
 </div>
 
