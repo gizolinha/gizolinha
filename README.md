@@ -24,16 +24,6 @@
 
 ---
 
-## 🗡️ Featured Projects
-
-<div align="center">
-
-[![Garfield game](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gizolinha&repo=garfield_game&theme=dark&title_color=660000&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=660000)](https://github.com/gizolinha/garfield_game)
-
-</div>
-
----
-
 <div align="center">
 
 *† There can be no justice. Only revenge †*
