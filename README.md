@@ -24,21 +24,6 @@
 
 ---
 
-## Statistics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=gizolinha&theme=dark&ring=660000&fire=660000&currStreakLabel=660000&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=660000" alt="streak"/>
-
-<br/><br/>
-
-<div align="center">
-  <img height="135em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gizolinha&show_icons=true&theme=dark&title_color=660000&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
-  <img height="135em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gizolinha&layout=compact&theme=dark&title_color=660000&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
-</div>
-
----
-
 ## 🗡️ Featured Projects
 
 <div align="center">
